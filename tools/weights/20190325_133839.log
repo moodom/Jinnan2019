@@ -1,0 +1,2 @@
+2019-03-25 13:38:39,983 - INFO - Start running, host: wfy@wfy, work_dir: /home/wfy/code/mmdetection-master/tools/weights
+2019-03-25 13:38:39,983 - INFO - workflow: [('train', 1)], max: 48 epochs
